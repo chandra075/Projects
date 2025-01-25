@@ -1,0 +1,12 @@
+name: Bollywood
+title: Bollywood
+username: chandra-shekhar-singh
+account: chandra-shekhar-singh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12433107
+bundleId: 8973489
+url: https://chandra-shekhar-singh.shinyapps.io/Bollywood/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
