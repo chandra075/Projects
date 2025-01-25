@@ -1,1 +1,1 @@
-Data Analytics / Science projects using R and Python
+Data Analytics / Science projects R, Python and Power BI
